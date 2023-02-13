@@ -1,0 +1,16 @@
+.projectCard{ 
+    border: 1px solid #ac61ad;
+    height: 100%;
+}
+
+.title{
+    color: #ac61ad !important;
+    letter-spacing: 8px;
+    font-weight:300;
+    font-size: 32px;
+    text-shadow: 7px 5px 7px rgb(159, 159, 159);
+}
+
+.desc{
+    color: #000;
+}

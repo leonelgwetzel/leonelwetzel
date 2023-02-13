@@ -1,0 +1,30 @@
+.heroContainer{
+    height: 100vh !important;
+    background: rgb(3,1,4);
+    background: linear-gradient(180deg, rgba(3,1,4,1) 0%, rgba(33,24,40,1) 100%); 
+    background: rgb(3,1,4);
+    background: linear-gradient(180deg, rgba(3,1,4,1) 0%, rgba(33,24,40,1) 100%); 
+    display: flex;
+    align-items: center;
+}
+
+h1{
+    letter-spacing: 10px;
+    font-weight: bolder !important;
+}
+h4{
+    font-weight: lighter !important;
+}
+
+@media only screen and (max-width: 992px) {
+    .heroContainer{
+        height: 80vh !important;
+        align-items: start;
+        padding-top: 50px;
+    }
+    img{
+        width: 200px !important;
+        margin-bottom: 50px !important;
+        padding-top: 50px;
+    }
+}

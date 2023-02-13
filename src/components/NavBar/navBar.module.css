@@ -1,0 +1,9 @@
+.navbar{
+    background-color: #000 !important;
+    padding-bottom: 15px !important;
+}
+.navLink:hover{
+    color: #9f5ca0 !important;
+    border-left: 1px solid #9f5ca0;
+    border-radius: 25px;
+}

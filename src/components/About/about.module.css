@@ -1,0 +1,12 @@
+.aboutSection{
+    background-color: #000 !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+p{
+    font-size: 18px;
+    font-weight:lighter;
+    text-align:left;
+}
